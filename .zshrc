@@ -88,3 +88,4 @@ alias youtube-mp3='youtube-dl -x --audio-format=mp3'
 export VLC_PLUGIN_PATH=$VLC_PLUGIN_PATH:/Applications/VLC.app/Contents/MacOS/plugins
 export ANDROID_SDK_ROOT=/usr/local/share/android-sdk
 
+export PATH=/usr/local/sbin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin
